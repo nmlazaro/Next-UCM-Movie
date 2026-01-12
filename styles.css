@@ -1,0 +1,24 @@
+:root {
+    color-scheme: light dark;
+}
+
+body {
+    display: grid;
+    place-content: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+hgroup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+img {
+    border-radius: 32px;
+    margin: 0 auto;
+}
